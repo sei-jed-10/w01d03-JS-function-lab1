@@ -4,8 +4,8 @@ Create a file named `functions.js`.
 
 1.  Define a `youRock` function that accepts a string argument of a name and returns a string using that name.
 ```js
-youRock('Sara') // 'You rock Sami!'
-youRock('Samar') //'You rock Ahmad!'
+youRock('Samar') // 'You rock Samar!'
+youRock('Sara') //'You rock Sara!'
 ```
 
 2.  Define a `square` function that accepts a number argument and returns that number multipled by itself.
