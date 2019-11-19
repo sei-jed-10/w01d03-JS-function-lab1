@@ -55,7 +55,7 @@ Otherwise, return the number
 ```js
 fizzBuzz(3) // Fizz
 fizzBuzz(15) // FizzBuzz
-rainDrop(7) // 7
+fizzBuzz(7) // 7
 ```
 
 ### Lab: RainDrop Function
